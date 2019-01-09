@@ -26,26 +26,27 @@ Bioinformatician & Data Analyst, Sainsbury Laboratory Cambridge University
 **Undergraduate in Biology**, University of Lisbon, Lisbon, Portugal
 
 
-## Experience
+## Bioinformatics Support
 
-### Bioinformatics Support
+## Scientific Research
 
-### Scientific Research
+<i class="fas fa-desktop"></i> = computational work (data analysis, bioinformatics), 
+<i class="fas fa-flask"></i> = experimental work (genetics, molecular biology)
 
 `2015 - present`
-**Research Associate**, Leyser lab, SLCU, Cambridge, UK
+**Research Associate**, Leyser lab, SLCU, Cambridge, UK <i class="fas fa-desktop"></i>
 
 `2014 - 2015`
-**Research Associate**, Clark lab, The Genome Analysis Centre, Norwich, UK
+**Research Associate**, Clark lab, The Genome Analysis Centre, Norwich, UK <i class="fas fa-desktop"></i>
 
 `2010 - 2014`
-**PhD student**, Coen lab, John Innes Centre, Norwich, UK
+**PhD student**, Coen lab, John Innes Centre, Norwich, UK <i class="fas fa-flask"></i> <i class="fas fa-desktop"></i>
 
 `2008 - 2009`
-**Research technician**, Almeida lab, ITQB, Oeiras, Portugal
+**Research technician**, Almeida lab, ITQB, Oeiras, Portugal <i class="fas fa-flask"></i>
 
 `2006 - 2007`
-**Masters thesis**, Almeida lab, ITQB, Oeiras, Portugal
+**Masters thesis**, Almeida lab, ITQB, Oeiras, Portugal <i class="fas fa-flask"></i>
 
 
 
