@@ -1,91 +1,70 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hugo Tavares' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# hugo tavares
+Bioinformatician & Data Analyst, Sainsbury Laboratory Cambridge University
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="hugo.tavares@slcu.cam.ac.uk"><i class="fas fa-at"></i> hugo.tavares@slcu.cam.ac.uk</a> | 
+  <a href="https://tavareshugo.github.io"><i class="fas fa-home"></i> tavareshugo.github.io</a> | 
+  <a href="https://github.com/tavareshugo"><i class="fab fa-github"></i> tavareshugo</a> | 
+  <a href="https://orcid.org/0000-0001-9373-2726"><i class="ai ai-orcid"></i> 0000-0001-9373-2726</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## This document is under update...
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2014`
+**PhD in Evolutionary Genetics and Genomics**, John Innes Centre, Norwich, UK
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2006-2007`
+**Masters in Evolutionary and Developmental Biology**, University of Lisbon, Lisbon, Portugal
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2002-2006`
+**Undergraduate in Biology**, University of Lisbon, Lisbon, Portugal
 
 
+## Experience
 
-## Awards
+### Bioinformatics Support
 
-`2012`
-President, *Royal Society*, London, UK
+### Scientific Research
 
-Associate, *French Academy of Science*, Paris, France
 
+## Teaching
+
+
+## Supervision
+
+### Masters students
+
+### Bachelors thesis
+
+
+## Skills
+
+<i class="fas fa-chart-area"></i> Data analysis
+
+<i class="fas fa-dna"></i> Bioinformatics
+
+<i class="fas fa-terminal"></i> Command line
+
+<i class="fab fa-r-project"></i> Expert R programming
+
+<i class="fab fa-python"></i> Proficient Python programming
+
+<i class="fab fa-network-wired"></i> High performance computing cluster
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2019 -->
 
 
