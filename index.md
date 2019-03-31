@@ -177,6 +177,6 @@ _Evolution of flower color pattern through selection on regulatory small RNAs_,
 Science 358:925; DOI: [10.1126/science.aao3526](https://doi.org/10.1126/science.aao3526)
 
 
-### Footer
+<!-- ### Footer
 
-Last updated: Mar 2019
+Last updated: Mar 2019 -->
