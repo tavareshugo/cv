@@ -9,9 +9,9 @@ Bioinformatician & Data Analyst
 Sainsbury Laboratory Cambridge University
 
 <div id="webaddress">
-  <a href=""><i class="fas fa-at"></i> hugo.tavares @ slcu.cam.ac.uk</a> | 
+  <a href=""><i class="fas fa-at"></i> hugo.tavares @ slcu.cam.ac.uk</a> |
   <!-- <a href="https://tavareshugo.github.io"><i class="fas fa-home"></i> tavareshugo.github.io</a><br/> -->
-  <a href="https://github.com/tavareshugo"><i class="fab fa-github"></i> tavareshugo</a> | 
+  <a href="https://github.com/tavareshugo"><i class="fab fa-github"></i> tavareshugo</a> |
   <a href="https://orcid.org/0000-0001-9373-2726"><i class="ai ai-orcid"></i> 0000-0001-9373-2726</a>
 </div>
 
@@ -36,31 +36,31 @@ Sainsbury Laboratory Cambridge University
 `2015-now`
 <i class="fas fa-desktop"></i> **Research Associate**, Leyser lab, SLCU, Cambridge, UK
 
-Analysis of quantitative genetic data for environmentally-sensitive traits in Arabidopsis. 
-Combining standard association mapping approaches 
-(GWAS and QTL mapping using multi-parent RILs) with genome scans for selection signals 
+Analysis of quantitative genetic data for environmentally-sensitive traits in Arabidopsis.
+Combining standard association mapping approaches
+(GWAS and QTL mapping using multi-parent RILs) with genome scans for selection signals
 in artifically selected populations (using an "evolve-and-resequence" approach).
 
 `2014-2015`
-<i class="fas fa-desktop"></i> **Research Associate**, Clark lab, The Genome Analysis Centre, Norwich, UK 
+<i class="fas fa-desktop"></i> **Research Associate**, Clark lab, The Genome Analysis Centre, Norwich, UK
 
-Draft genome assembly for an Asian honeybee species and genome-wide association mapping 
+Draft genome assembly for an Asian honeybee species and genome-wide association mapping
 for parasite resistance in European honeybee.
 
 `2010-2014`
-<i class="fas fa-desktop"></i> <i class="fas fa-flask"></i> **PhD student**, Coen lab, John Innes Centre, Norwich, UK 
+<i class="fas fa-desktop"></i> <i class="fas fa-flask"></i> **PhD student**, Coen lab, John Innes Centre, Norwich, UK
 
 Used a combination of molecular genetics, genomics and population genetics to show the evolutionary forces
 that shape differentiation patterns across genomes in natural populations.
 
 `2008-2009`
-<i class="fas fa-flask"></i> **Research technician**, Almeida lab, ITQB, Oeiras, Portugal 
+<i class="fas fa-flask"></i> **Research technician**, Almeida lab, ITQB, Oeiras, Portugal
 
 Characterised plant self-incompatibility genes, which are hypervariable genes comprising high
 numbers of alleles in populations.
 
 `2006-2007`
-<i class="fas fa-flask"></i> **Masters thesis**, Almeida lab, ITQB, Oeiras, Portugal 
+<i class="fas fa-flask"></i> **Masters thesis**, Almeida lab, ITQB, Oeiras, Portugal
 
 Molecular isolation of transposons to be used for mutagenesis in non-model species.
 
@@ -68,15 +68,15 @@ Molecular isolation of transposons to be used for mutagenesis in non-model speci
 ## Bioinformatics Support
 
 ` `
-**Data analysis**: initiated and run weekly "drop-in" sessions for SLCU researchers to get advice on data analysis and 
-regularly support and collaborate with colleagues in the Leyser group 
+**Data analysis**: initiated and run weekly "drop-in" sessions for SLCU researchers to get advice on data analysis and
+regularly support and collaborate with colleagues in the Leyser group
 
 ` `
 **HPC cluster**: co-maintainer of the SLCU cluster: install software, create accounts and support new
 users
 
 ` `
-**Community building:** organise data analysis activities at SLCU to foster ideas exchange: bi-weekly "statistics lunch chats" (currently running), a book club (finished), bioinformatics club (extinct)
+**Community building:** organise data analysis activities at SLCU to foster ideas exchange: bi-weekly "statistics lunch chats" (currently running), a book club (finished), bioinformatics club (finished)
 
 ` `
 **Data management:** member of the _Data Champions_ initiative at Cambridge University, whose purpose is to support researchers with research data management, sharing and reproducible data analysis
@@ -88,14 +88,20 @@ needs in the institute
 
 ## Training attented
 
+`Mar 2018`
+**Computer vision with R and Python** and **Image Recognition & Deep Learning**, Leuven University, Belgium
+
+`Oct 2018`
+**Introduction to Bayesian statistics using BUGS**, University of Cambridge, UK
+
 `Nov 2016`
-**Data Carpentry instructor training**, Cambridge University
+**Data Carpentry instructor training**, University of Cambridge, UK
 
 `Jul 2016`
-**ELIXIR Train the Trainer**, Cambridge University
+**ELIXIR Train the Trainer**, University of Cambridge, UK
 
 `Sep 2015`
-**R object-oriented programming and package development**, Cambridge University
+**R object-oriented programming and package development**, University of Cambridge, UK
 
 
 ## Teaching and Supervision
@@ -122,7 +128,7 @@ Regular **R instuctor** at the _Cambridge University Bioinformatics Training_ fa
 (development of new lesson material)
 
 `2018`
-Co-organised a modular **Introduction to R** course tailored for _SLCU_ researchers 
+Co-organised a modular **Introduction to R** course tailored for _SLCU_ researchers
 (development of new lesson material)
 
 `2018`
@@ -136,23 +142,23 @@ Co-organised a modular **Introduction to R** course tailored for _SLCU_ research
 
 ### Programming
 
-<i class="fas fa-terminal"></i> Shell scripting | 
+<i class="fas fa-terminal"></i> Shell scripting |
 <i class="fab fa-r-project"></i> R programming |
 <i class="fab fa-python"></i> Python programming |
 <i class="fas fa-network-wired"></i> High performance computing cluster
 
-### Bioinformatics 
+### Bioinformatics
 
-Analysis of whole-genome Illumina data, including 
-a wide range of bioinformatic tools with applications in transcriptome analysis, 
-genetic mapping-by-sequencing, association mapping, population genomics, variant 
+Analysis of whole-genome Illumina data, including
+a wide range of bioinformatic tools with applications in transcriptome analysis,
+genetic mapping-by-sequencing, association mapping, population genomics, variant
 calling and de-novo genome assembly.
 
 
 ### Data analysis
 
-Expert in R statistical programming language, including packages for data manipulation 
-and visualisation (e.g. data.table, dplyr, ggplot2), statistical modelling (e.g. lme4) 
+Expert in R statistical programming language, including packages for data manipulation
+and visualisation (e.g. data.table, dplyr, ggplot2), statistical modelling (e.g. lme4)
 and BioConductor packages (e.g. DEseq2, GenomicAlignments)
 
 
@@ -161,12 +167,12 @@ and BioConductor packages (e.g. DEseq2, GenomicAlignments)
 ### Journals
 
 ` `
-**Tavares H**, Whibley A, Field DL, ..., Barton NH & Coen E (2018) 
-_Selection and gene flow shape genomic islands that control floral guides_, 
+**Tavares H**, Whibley A, Field DL, ..., Barton NH & Coen E (2018)
+_Selection and gene flow shape genomic islands that control floral guides_,
 PNAS 115:11006; DOI: [10.1073/pnas.1801832115](https://doi.org/10.1073/pnas.1801832115)
 
 ` `
-Bradley D, ..., **Tavares H**, ..., Dalmay T & Coen S (2017) 
+Bradley D, ..., **Tavares H**, ..., Dalmay T & Coen S (2017)
 _Evolution of flower color pattern through selection on regulatory small RNAs_,
 Science 358:925; DOI: [10.1126/science.aao3526](https://doi.org/10.1126/science.aao3526)
 
@@ -174,5 +180,3 @@ Science 358:925; DOI: [10.1126/science.aao3526](https://doi.org/10.1126/science.
 <!-- ### Footer
 
 Last updated: Feb 2019 -->
-
-
